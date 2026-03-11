@@ -1,2 +1,3 @@
 print("Hello, World!")
-print("Este es un código de ejemplo en Python.")
+
+print("¡Estoy subiendo este código a GitHub!")
